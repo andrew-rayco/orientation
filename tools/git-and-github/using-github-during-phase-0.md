@@ -2,7 +2,7 @@ For general information about Git and GitHub see [git and GitHub intro](../git-a
 
 # GitHub
 
-To pass copies of the your repository around to your team, you need a place to put a copy where everyone on your team can have access to it. That is what GitHub does. Really, that's almost all it does: provide a place for you to store your code.
+To pass copies of your repository around to your team, you need a place to put a copy where everyone on your team can have access to it. That is what GitHub does. Really, that's almost all it does: provide a place for you to store your code.
 
 As part of your preparation for Phase 0 you should have set up an account on [GitHub](https://GitHub.com/) using your first name as part of your GitHub user name. If not, go set one up right now. Note that the general practice on GitHub is to use "train-case" (all lowercase letters with words separated by hyphens). So if you're name were Mohandas K. Gandhi, your GitHub username would be `mohandas-k-gandhi`, or just `mohandas-gandhi`. In the future, you may be involved in many projects involving GitHub, using your own name for your GitHub account, where possible, works best.
 
